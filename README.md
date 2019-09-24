@@ -1,4 +1,4 @@
-# Python lesson
+# Python Lesson
 ## Author 
 Eileen
 ##Date
