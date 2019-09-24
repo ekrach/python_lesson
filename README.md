@@ -1,5 +1,8 @@
 # Python Lesson
 ## Author 
-Eileen
-##Date
-2019-09-24
+Eileen Krach
+## Date
+2019-09-24 Tuesday
+
+## Description
+This is a repo countaining from the python course
